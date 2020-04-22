@@ -57,13 +57,9 @@
 
 飞行界面
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/飞行界面.png)
-
-添加航点
-
 ![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/添加航点.png)
 
-撤销航点
+添加与撤销航点
 
 ![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/撤销航点.png)
 
