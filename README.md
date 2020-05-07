@@ -3,9 +3,13 @@
 
 预览图：
 
-### 登录界面
+### 登录方式
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/登录.png)
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/登录方式.png)
+
+
+
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/登录验证.png)
 
 
 
