@@ -3,7 +3,7 @@
 
 预览图：
 
-### 登录方式
+### 登录及验证
 
 ![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/登录方式.png)
 
@@ -13,82 +13,58 @@
 
 
 
-### 注册界面
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/验证码登录.png)
+
+
+
+### 注册
 
 ![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/注册.png)
 
 
 
-### 用户界面
+### 用户信息
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/用户界面.png)
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/用户信息界面.png)
 
-修改配置名称
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/修改配置名称.png)
 
-删除配置
+飞行配置列表
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/删除配置.png)
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/本地与远程配置列表.png)
 
-回退版本
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/回退版本.png)
 
 ### 默认配置界面
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/默认配置界面.png)
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/飞行参数修改界面.png)
 
-飞行高度
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/飞行高度.png)
-
-飞行速度
-
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/飞行速度.png)
 
 自定义高度
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/自定义高度.png)
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/飞行高度自定义.png)
 
 
 
 ### 连接界面
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/未连接界面.png)
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/演示模式与真机.png)
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/已连接界面.png)
 
-飞行界面
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/添加航点.png)
+航点设置
 
-添加与撤销航点
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/航点配置界面.png)
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/撤销航点.png)
 
-加载本地配置
-
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/加载本地配置.png)
-
-加载完成
-
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/加载配置完成.png)
 
 开始飞行
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/飞行中界面.png)
-
-飞行结束界面
-
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/飞行结束界面.png)
-
-### 设置界面
-
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/设置界面.png)
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/飞行流程.png)
 
 
 
 ### 检查升级
 
-![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/检查升级.png)
+![img](https://github.com/rianlu/DJIRoutePlanPreview/blob/master/images/检查更新及下载.png)
