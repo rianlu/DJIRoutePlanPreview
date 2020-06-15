@@ -68,3 +68,9 @@
 ### 检查升级
 
 ![img](https://rainlu.gitee.io/previewimgs/大疆无人机路线规划/images/检查更新及下载.png)
+
+
+
+### 演示视频
+
+[演示视频](https://gitee.com/rainlu/previewImgs/blob/master/大疆无人机路线规划/videos/真机飞行演示.mp4)
